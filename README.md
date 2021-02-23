@@ -1,6 +1,9 @@
 # You can view the demo in the link below
 [View Demo](//facebook-clone-app-27.web.app/)
 
+# IMPORTANT
+Do copy the firebaseConfig scripts of your own firebase project. For that go to Project Settings > scroll down to firebase SDK snippet > select config > copy the scipt from there and paste it in firebase.js file
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
